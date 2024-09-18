@@ -1,0 +1,97 @@
+{
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "Urbano LTDA",
+      "cnpj": "82.091.606/0001-44",
+      "email": "sac@urbano.com.br"
+    },
+    {
+      "id": 2,
+      "nome": "Urbano LTDA",
+      "cnpj": "82.091.606/0001-44",
+      "email": "sac@urbano.com.br"
+    },
+    {
+      "id": 3,
+      "nome": "Urbano LTDA",
+      "cnpj": "82.091.606/0001-44",
+      "email": "sac@urbano.com.br"
+    },
+    {
+      "nome": "Sonho LTDA",
+      "cnpj": "21.313.112/3131.31",
+      "email": "sonho@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Sonho LTDA",
+      "cnpj": "21.313.112/3131.31",
+      "email": "sonho@gmail.com",
+      "id": 5
+    },
+    {
+      "nome": "fa",
+      "cnpj": "22.222.222/2222.22",
+      "email": "brenochacon4@gmail.com",
+      "id": 6
+    },
+    {
+      "nome": "hgsf\\h",
+      "cnpj": "33.333.333/3333.33",
+      "email": "brenochacon4@gmail.com",
+      "id": 7
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "iphone",
+      "preco": "7000",
+      "descricao": "iphone pro",
+      "quantidadeEstoque": "10",
+      "id": 2
+    },
+    {
+      "nome": "sas",
+      "preco": "32323",
+      "descricao": "dssd",
+      "quantidadeEstoque": "22",
+      "id": 4
+    },
+    {
+      "nome": "motorola",
+      "preco": "1000",
+      "descricao": "moto G5",
+      "quantidadeEstoque": "20",
+      "id": 5
+    }
+  ],
+  "clientes": [
+    {
+      "id": 2,
+      "nome": "Kelson",
+      "cpf": "123123",
+      "email": "zezin@gmail.com",
+      "cep": "58079000",
+      "rua": "Rua Josefa Miranda Freire",
+      "numero": "105",
+      "bairro": "Jardim Oceania",
+      "cidade": "João Pessoa",
+      "estado": "Paraíba",
+      "pais": "Brasil"
+    },
+    {
+      "nome": "rweqr",
+      "cpf": "123.124.144-41",
+      "email": "brenochacon4@gmail.com",
+      "cep": "58085-360",
+      "rua": "Rua Manoel Pereira de Oliveira",
+      "numero": "50",
+      "bairro": "Cruz das Armas",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "pais": "Brasil",
+      "id": 3
+    }
+  ]
+}
